@@ -1,7 +1,7 @@
-title = 'GitHub for researchers'
+title = "GitHub for researchers"
 defaultContentLanguage = "ja"
-baseURL = 'https://astropenguin.github.io/github-for-researchers/'
-theme = 'book'
+baseURL = "https://astropenguin.github.io/github-for-researchers/"
+theme = "book"
 
 # Book configuration
 disablePathToLower = true
@@ -16,19 +16,19 @@ startLevel = 1
 
 # Multi-lingual mode config
 [languages.ja]
-languageName = 'Japanese'
-contentDir = 'content'
+languageName = "Japanese"
+contentDir = "content"
 weight = 1
 
 [languages.en]
-languageName = 'English'
-contentDir = 'content.en'
+languageName = "English"
+contentDir = "content.en"
 weight = 2
 
 [params]
 bookTOC = true
 bookSearch = true
 bookComments = true
-bookSection = 'docs'
-bookDateFormat = 'January 2, 2006'
-bookRepo = 'https://github.com/astropenguin/github-for-researchers'
+bookSection = "docs"
+bookDateFormat = "January 2, 2006"
+bookRepo = "https://github.com/astropenguin/github-for-researchers/"
