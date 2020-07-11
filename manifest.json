@@ -1,0 +1,15 @@
+{
+  "name": "GitHub for researchers",
+  "short_name": "GitHub for researchers",
+  "start_url": "/github-for-researchers/",
+  "scope": "/github-for-researchers/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/github-for-researchers/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
