@@ -1,6 +1,6 @@
 title = 'GitHub for researchers'
 defaultContentLanguage = "ja"
-baseURL = 'https://http://astropenguin.github.io/github-for-researchers/'
+baseURL = 'https://astropenguin.github.io/github-for-researchers/'
 theme = 'book'
 
 # Book configuration
